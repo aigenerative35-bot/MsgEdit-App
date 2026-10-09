@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#0B1118</color>
+    <color name="panel">#17222D</color>
+    <color name="mint">#34D399</color>
+    <color name="launcher_background">#0B1118</color>
+</resources>
